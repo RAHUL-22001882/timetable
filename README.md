@@ -115,5 +115,9 @@ Execute the program
 
 </html>
 
-# OUPUT
+# OUTPUT
 ![Screenshot (83)](https://github.com/RAHUL-22001882/timetable/assets/123528986/b317ac12-eed9-4cb0-9355-5ee3b9ccb4b3)
+
+# RESULT
+Thus slot and timetable is created using HTML code.
+
